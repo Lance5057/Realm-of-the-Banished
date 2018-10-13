@@ -1,0 +1,1 @@
+mods.ItemStages.addItemStage("lost", <minecraft:stone>);
